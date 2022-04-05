@@ -10,6 +10,7 @@ It is a web based application in which there are three modes to operate on: Admi
 
 Overall functioning of the project is to maintain a record of employee performance.
 
+LANGUAGES USED: HTML,CSS,JAVASCRIPT,BOOTSTRAP,PHP,MYSQL
 
 HOME PAGE
 ![home](https://user-images.githubusercontent.com/71014778/161867994-b3a84de8-f870-40b4-a50b-7a16505edd58.PNG)
@@ -29,6 +30,8 @@ EVALUATOR DETAILS
 DIFFERENT DEPARTMENT
 ![department](https://user-images.githubusercontent.com/71014778/161869312-28e9e4d0-ea4a-45ad-8d0e-5baeb4792c37.PNG)
 
+DATABASE STORAGE
+![database storage](https://user-images.githubusercontent.com/71014778/161869970-ede0e049-23e2-4421-978d-faf8858bd645.PNG)
 
 
 
