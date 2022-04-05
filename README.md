@@ -1,4 +1,4 @@
 # EMPLOYEE_MANAGEMENT_SYSTEM
 
 
-![](Home.png)
+![](home.png)
