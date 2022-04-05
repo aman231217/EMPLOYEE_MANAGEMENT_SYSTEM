@@ -1,6 +1,6 @@
 EMPLOYEE_MANAGEMENT_SYSTEM
 
-EMPLOYEE MANAGEMENT SYSTEM is a web based application in which there are three modes to operate on: Admin, Evaluator and Employee Mode
+It is a web based application in which there are three modes to operate on: Admin, Evaluator and Employee Mode
 
 ->Admin can check the task of employees and add and delete employee and evaluator
 
