@@ -1,4 +1,5 @@
 # EMPLOYEE_MANAGEMENT_SYSTEM
 
 
-![](home.png)
+![](home.jfif)
+
