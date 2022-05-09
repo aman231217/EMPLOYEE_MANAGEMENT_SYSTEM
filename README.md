@@ -13,8 +13,7 @@ Overall functioning of the project is to maintain a record of employee performan
 LANGUAGES USED: HTML,CSS,JAVASCRIPT,BOOTSTRAP,PHP,MYSQL
 
 HOME PAGE
-![home](https://user-images.githubusercontent.com/71014778/161867994-b3a84de8-f870-40b4-a50b-7a16505edd58.PNG)
-
+![1e](https://user-images.githubusercontent.com/71014778/167453453-f76912ef-72f6-4d6c-8a73-e2b9569bb58d.PNG)
 DASHBOARD
 ![dashboard](https://user-images.githubusercontent.com/71014778/161868086-2dcc1e03-b522-422b-b713-09f2d3c0e0d7.PNG)
 
